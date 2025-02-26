@@ -1,0 +1,9 @@
+streamlit
+pandas
+pytesseract
+pdf2image
+openai
+pillow
+numpy
+requests
+xlsxwriter
